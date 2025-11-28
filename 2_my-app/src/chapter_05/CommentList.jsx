@@ -13,6 +13,10 @@ const comments = [
     {
         name : "이민주",
         comment : "ㅋㅋㅋㅋㅋ 뭐요"
+    },
+    {
+        name : "밥묵자",
+        comment : "누구세요?"
     }
 ]
 
